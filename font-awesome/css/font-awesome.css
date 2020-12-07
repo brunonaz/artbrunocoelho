@@ -1799,3 +1799,18 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-react:before {
+  content: "\f41b";
+}
+.fa-palette:before {
+  content: "\f53f";
+}
+.fa-battle-net:before {
+  content: "\f835";
+}
+.fa-yin-yang:before {
+  content: "\f6ad";
+}
+.fa-award:before {
+  content: "\f559";
+}
